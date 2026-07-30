@@ -2,6 +2,9 @@
 	"enabled_classes": [
 		"OS",
 		"EditorVCSInterface",
+		"ProjectSettings",
+		"FileAccess",
+		"DirAccess",
 		"Window"
 	]
 }
